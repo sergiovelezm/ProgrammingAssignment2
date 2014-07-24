@@ -1,5 +1,4 @@
 ## These functions cache the inverse of a matrix in order to not compute it repeatedly
-## functions do
 
 ## creates a special "matrix", which is really a list containing a function to
 #set the value of the matrix
